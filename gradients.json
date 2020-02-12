@@ -1530,11 +1530,11 @@
         "colors": ["#d4fc79", "#96e6a1"]
     },
     {
-        "name": "Hi Andrei",
-        "colors": ["#5e0e15", "#363333"]
-    },
-    {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Hi Andrei",
+        "colors": ["#5e0e15", "#363333"]
     }
 ]
